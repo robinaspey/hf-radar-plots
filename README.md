@@ -1,3 +1,3 @@
 # hf-radar-plots
-This repository is for all matlab files for processing CODAR Seasonde files to radial and totals plots. These files are normally 
+This repository is for matlab files for processing CODAR Seasonde data to radial and totals plots. These files are normally 
 stored in .tuv, .suv files on the server etc.  This archive also allows for plotting a coastline map.
